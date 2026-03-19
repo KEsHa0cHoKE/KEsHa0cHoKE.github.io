@@ -1,0 +1,122 @@
+{
+	"b_0" :
+	{
+		"text_ru"     : "Купальник 1",
+		"text_eng"    : "Bikini",
+		"profit_type" : 0,
+		"profit_size" : 1,
+		"price"		  : 25
+	},
+	"b_1" :
+	{
+		"text_ru"     : "Панцу 1",
+		"text_eng"    : "Pantsu",
+		"profit_type" : 1,
+		"profit_size" : 1,
+		"price"		  : 100
+	},
+	"b_2" :
+	{
+		"text_ru"     : "Поцелуй",
+		"text_eng"    : "Kiss",
+		"profit_type" : 0,
+		"profit_size" : 25,
+		"price"		  : 1500
+	},
+	"b_3" :
+	{
+		"text_ru"     : "Панцу 2",
+		"text_eng"    : "Pantsu 2",
+		"profit_type" : 1,
+		"profit_size" : 50,
+		"price"		  : 12500
+	},
+	"b_4" :
+	{
+		"text_ru"     : "Помада",
+		"text_eng"    : "Lipstick",
+		"profit_type" : 0,
+		"profit_size" : 2100,
+		"price"		  : 150000
+	},
+	"b_5" :
+	{
+		"text_ru"     : "Купальник 2",
+		"text_eng"    : "Bikini 2",
+		"profit_type" : 1,
+		"profit_size" : 20000,
+		"price"		  : 1000000
+	},
+	"b_6" :
+	{
+		"text_ru"     : "Панцу 3",
+		"text_eng"    : "Bikini 3",
+		"profit_type" : 0,
+		"profit_size" : 220000,
+		"price"		  : 12500000
+	},
+	"b_7" :
+	{
+		"text_ru"     : "Очки",
+		"text_eng"    : "Sunglases",
+		"profit_type" : 1,
+		"profit_size" : 2000000,
+		"price"		  : 150000000
+	},
+	"b_8" :
+	{
+		"text_ru"     : "Панцу 4",
+		"text_eng"    : "Pantsu 4",
+		"profit_type" : 0,
+		"profit_size" : 23000000,
+		"price"		  : 1000000000
+	},
+	"b_9" :
+	{
+		"text_ru"     : "Туфля",
+		"text_eng"    : "Shoe",
+		"profit_type" : 1,
+		"profit_size" : 200000000,
+		"price"		  : 12500000000
+	},
+	"b_10" :
+	{
+		"text_ru"     : "Зонтик",
+		"text_eng"    : "Umbrella",
+		"profit_type" : 0,
+		"profit_size" : 2400000000,
+		"price"		  : 150000000000
+	},
+	"b_11" :
+	{
+		"text_ru"     : "Панцу 5",
+		"text_eng"    : "Pantsu 5",
+		"profit_type" : 1,
+		"profit_size" : 20000000000,
+		"price"		  : 1000000000000
+	},
+	"b_12" :
+	{
+		"text_ru"     : "Жемчужина",
+		"text_eng"    : "Pearl",
+		"profit_type" : 0,
+		"profit_size" : 250000000000,
+		"price"		  : 12500000000000
+	},
+	"b_13" :
+	{
+		"text_ru"     : "Тапочки",
+		"text_eng"    : "Slippers",
+		"profit_type" : 1,
+		"profit_size" : 2000000000000,
+		"price"		  : 150000000000000
+	},
+	"b_14" :
+	{
+		"text_ru"     : "Каркаде",
+		"text_eng"    : "Tea Rose",
+		"profit_type" : 0,
+		"profit_size" : 26000000000000,
+		"price"		  : 1000000000000000
+	}
+}

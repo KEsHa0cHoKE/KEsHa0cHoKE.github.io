@@ -1,0 +1,287 @@
+{
+	"0":
+	{
+		"timer" : 30,
+		"number_of_cards" : 2
+	},
+	"1":
+	{
+		"timer" : 40,
+		"number_of_cards" : 3
+	},
+	"2":
+	{
+		"timer" : 50,
+		"number_of_cards" : 4
+	},
+	"3":
+	{
+		"timer" : 40,
+		"number_of_cards" : 4
+	},
+	"4":
+	{
+		"timer" : 60,
+		"number_of_cards" : 5
+	},
+	"5":
+	{
+		"timer" : 50,
+		"number_of_cards" : 5
+	},
+	"6":
+	{
+		"timer" : 70,
+		"number_of_cards" : 6
+	},
+	"7":
+	{
+		"timer" : 60,
+		"number_of_cards" : 6
+	},
+	"8":
+	{
+		"timer" : 50,
+		"number_of_cards" : 6
+	},
+	"9":
+	{
+		"timer" : 80,
+		"number_of_cards" : 7
+	},
+	"10":
+	{
+		"timer" : 70,
+		"number_of_cards" : 7
+	},
+	"11":
+	{
+		"timer" : 60,
+		"number_of_cards" : 7
+	},
+	"12":
+	{
+		"timer" : 90,
+		"number_of_cards" : 8
+	},
+	"13":
+	{
+		"timer" : 80,
+		"number_of_cards" : 8
+	},
+	"14":
+	{
+		"timer" : 70,
+		"number_of_cards" : 8
+	},
+	"15":
+	{
+		"timer" : 100,
+		"number_of_cards" : 9
+	},
+	"16":
+	{
+		"timer" : 90,
+		"number_of_cards" : 9
+	},
+	"17":
+	{
+		"timer" : 80,
+		"number_of_cards" : 9
+	},
+	"18":
+	{
+		"timer" : 120,
+		"number_of_cards" : 10
+	},
+	"19":
+	{
+		"timer" : 110,
+		"number_of_cards" : 10
+	},
+	"20":
+	{
+		"timer" : 100,
+		"number_of_cards" : 10
+	},
+	"21":
+	{
+		"timer" : 130,
+		"number_of_cards" : 11
+	},
+	"22":
+	{
+		"timer" : 120,
+		"number_of_cards" : 11
+	},
+	"23":
+	{
+		"timer" : 110,
+		"number_of_cards" : 11
+	},
+	"24":
+	{
+		"timer" : 140,
+		"number_of_cards" : 12
+	},
+	"25":
+	{
+		"timer" : 130,
+		"number_of_cards" : 12
+	},
+	"26":
+	{
+		"timer" : 120,
+		"number_of_cards" : 12
+	},
+	"27":
+	{
+		"timer" : 150,
+		"number_of_cards" : 13
+	},
+	"28":
+	{
+		"timer" : 140,
+		"number_of_cards" : 13
+	},
+	"29":
+	{
+		"timer" : 130,
+		"number_of_cards" : 13
+	},
+	"30":
+	{
+		"timer" : 160,
+		"number_of_cards" : 14
+	},
+	"31":
+	{
+		"timer" : 150,
+		"number_of_cards" : 14
+	},
+	"32":
+	{
+		"timer" : 130,
+		"number_of_cards" : 14
+	},
+	"33":
+	{
+		"timer" : 180,
+		"number_of_cards" : 15
+	},
+	"34":
+	{
+		"timer" : 170,
+		"number_of_cards" : 15
+	},
+	"35":
+	{
+		"timer" : 160,
+		"number_of_cards" : 15
+	},
+	"36":
+	{
+		"timer" : 200,
+		"number_of_cards" : 16
+	},
+	"37":
+	{
+		"timer" : 190,
+		"number_of_cards" : 16
+	},
+	"38":
+	{
+		"timer" : 180,
+		"number_of_cards" : 16
+	},
+	"39":
+	{
+		"timer" : 170,
+		"number_of_cards" : 16
+	},
+	"40":
+	{
+		"timer" : 210,
+		"number_of_cards" : 17
+	},
+	"41":
+	{
+		"timer" : 200,
+		"number_of_cards" : 17
+	},
+	"42":
+	{
+		"timer" : 190,
+		"number_of_cards" : 17
+	},
+	"43":
+	{
+		"timer" : 180,
+		"number_of_cards" : 17
+	},
+	"44":
+	{
+		"timer" : 220,
+		"number_of_cards" : 18
+	},
+	"45":
+	{
+		"timer" : 210,
+		"number_of_cards" : 18
+	},
+	"46":
+	{
+		"timer" : 200,
+		"number_of_cards" : 18
+	},
+	"47":
+	{
+		"timer" : 190,
+		"number_of_cards" : 18
+	},
+	"48":
+	{
+		"timer" : 230,
+		"number_of_cards" : 19
+	},
+	"49":
+	{
+		"timer" : 220,
+		"number_of_cards" : 19
+	},
+	"50":
+	{
+		"timer" : 210,
+		"number_of_cards" : 19
+	},
+	"51":
+	{
+		"timer" : 200,
+		"number_of_cards" : 19
+	},
+	"52":
+	{
+		"timer" : 250,
+		"number_of_cards" : 20
+	},
+	"53":
+	{
+		"timer" : 240,
+		"number_of_cards" : 20
+	},
+	"54":
+	{
+		"timer" : 230,
+		"number_of_cards" : 20
+	},
+	"55":
+	{
+		"timer" : 220,
+		"number_of_cards" : 20
+	},
+	"56":
+	{
+		"timer" : 210,
+		"number_of_cards" : 20
+	}
+}
