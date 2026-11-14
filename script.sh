@@ -19,8 +19,8 @@ UUID="$(xray uuid | tr -d '[:space:]')"
 
 # ---------- генерация X25519 ----------
 KEYS="$(xray x25519)"
-PRIVATE_KEY="$(printf '%s\n' "$KEYS" | awk '/Private/ {print $3}' | tr -d '[:space:]')"
-PUBLIC_KEY="$(printf '%s\n' "$KEYS" | awk '/Public/  {print $3}' | tr -d '[:space:]')"
+PRIVATE_KEY="$(printf '%s\n' "$KEYS" | grep -i private | awk '{print $NF}' | tr -d '[:space:]')"
+PUBLIC_KEY="$(printf '%s\n' "$KEYS" | grep -i public | awk '{print $NF}' | tr -d '[:space:]')"
 
 if [ -z "$PRIVATE_KEY" ] || [ -z "$PUBLIC_KEY" ]; then
   echo "[!] Не удалось извлечь X25519-ключи. Вывод xray x25519:" >&2
